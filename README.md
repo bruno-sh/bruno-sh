@@ -6,6 +6,8 @@
 
 <h3 align="left">Languages & Tools:</h3>
 <div align="left">
+  <img src="https://skillicons.dev/icons?i=rust" height="40" alt="rust logo" />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
